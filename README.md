@@ -2,7 +2,7 @@
 
 Version using DearPyGUI.
 
-### Requiremnts:
+### Requirements:
 
 1. pandas
 2. dearpygui 
